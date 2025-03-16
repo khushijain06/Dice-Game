@@ -22,7 +22,7 @@ A fun and interactive dice game built with **React**! Test your luck and score p
 git clone https://github.com/khushijain06/React-Projects.git
 
 # Navigate to the project directory
-cd React-Projects
+cd Dice-Game
 
 # Install dependencies
 npm install
