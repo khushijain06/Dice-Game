@@ -59,4 +59,4 @@ Contributions are welcome! Feel free to open a pull request or raise an issue.
 
 ## 📧 Contact
 - GitHub: [khushijain06](https://github.com/khushijain06)
-- Email: your.email@example
+- Email: codingwithkhushi@gmail.com
